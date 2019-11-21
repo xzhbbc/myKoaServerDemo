@@ -1,0 +1,13 @@
+{
+  "port": "4000",
+  "adminAccount": "admin",
+  "db": {
+    "servername": "localhost",
+    "DATABASE": "test",
+    "port": 27018,
+    "user": "",
+    "pass": "",
+    "authSource": ""
+  },
+  "baseURL": "http://localhost"
+}
